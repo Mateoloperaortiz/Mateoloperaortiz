@@ -81,18 +81,6 @@ I'm a passionate **Software Engineering student** at Universidad EAFIT in Medell
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateoloperaortiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateoloperaortiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 *"The best way to predict the future is to build it."*
