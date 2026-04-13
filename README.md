@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mateo Lopera Ortiz 👋
+# Hi, I'm Mateo Lopera Ortiz
 
 ### Software Engineering Student @ EAFIT University · Medellín, Colombia
 
@@ -12,18 +12,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Software Engineering student** at Universidad EAFIT in Medellín, Colombia, with a strong interest in **AI/ML**, **full-stack development**, and **distributed systems**.
 
-- 🔭 Currently working on **predicting FX market direction with machine learning** and **real-time distributed multiplayer systems**
-- 🌱 Continuously learning about **cloud architectures**, **AI/ML pipelines**, and **modern web development**
-- 🤝 Open to collaborating on interesting open-source projects
-- 🌐 Check out my personal site: [lopera.dev](https://lopera.dev)
-- 📍 Based in **Medellín, Colombia**
+-  Currently working on **predicting FX market direction with machine learning** and **real-time distributed multiplayer systems**
+-  Continuously learning about **cloud architectures**, **AI/ML pipelines**, and **modern web development**
+-  Open to collaborating on interesting open-source projects
+-  Check out my personal site: [lopera.dev](https://lopera.dev)
+-  Based in **Medellín, Colombia**
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -52,36 +52,36 @@ I'm a passionate **Software Engineering student** at Universidad EAFIT in Medell
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🤖 AI Chat with Azure
+### AI Chat with Azure
 > Full-stack chat application powered by **Azure AI Foundry** and SDKs. Deployable to Azure with infrastructure-as-code using Bicep.
 
 `Bicep` · `Azure AI Foundry` · `Full-stack`
 
-### 🎬 DjangoMovieReviews
+### DjangoMovieReviews
 > A web application for browsing and reviewing movies, built with **Django** backend and **JavaScript** frontend.
 
 `Django` · `JavaScript` · `Web Development`
 
-### 🧠 Inteligencia Artificial
+### Inteligencia Artificial
 > Collection of AI/ML exercises and projects from EAFIT — classifiers, search algorithms, neural networks, and more.
 
 `Python` · `Machine Learning` · `AI Algorithms`
 
-### 📡 Telematica — Distributed Multiplayer Game
+### Telematica — Distributed Multiplayer Game
 > University project implementing a **multiplayer game over the Internet** with a C server, identity service, web UI, and Python/Java clients.
 
 `C` · `Python` · `Java` · `Distributed Systems` · `TCP/IP`
 
-### 📈 Predicting FX Market Direction
+### Predicting FX Market Direction
 > Machine learning project to predict **EUR/USD currency pair direction** using historical data and ML models.
 
 `Python` · `scikit-learn` · `Pandas` · `Financial ML`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
